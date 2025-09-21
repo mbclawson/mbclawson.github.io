@@ -1,0 +1,37 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'redpoint analytics'
+theme = 'hugo-coder'
+defaultcontentlanguage = "en"
+
+[params]
+  author = "Matt Clawson"
+  info = "Data Engineer"
+  description = "John Doe's personal website"
+  keywords = "blog,developer,personal"
+  avatarurl = "images/avatar.jpg"
+  #gravatar = "john.doe@example.com"
+
+  faviconSVG = "/img/favicon.svg"
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2025
+
+  enableTwemoji = true
+
+  colorScheme = "dark"
+  hidecolorschemetoggle = true
+
+
+# Menu links
+[[menu.main]]
+  name = "blog"
+  weight = 1
+  url  = "posts/"
+
+[[menu.main]]
+  name = "about"
+  weight = 2
+  url  = "about/"
+
