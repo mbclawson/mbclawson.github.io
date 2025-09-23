@@ -1,4 +1,4 @@
-# mattclawson.dev
+# mattclawson
 A personal website and blog for Matt Clawson, Data Engineer, built with Hugo and hosted on GitHub Pages.
 
 ## What is Hugo?
