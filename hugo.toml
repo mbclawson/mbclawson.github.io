@@ -1,18 +1,17 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'redpoint analytics'
+title = 'matt clawson'
 theme = 'hugo-coder'
 defaultcontentlanguage = "en"
 
 [params]
   author = "Matt Clawson"
   info = "Data Engineer"
-  description = "John Doe's personal website"
+  description = "Matt Clawson's personal site"
   keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.jpg"
-  #gravatar = "john.doe@example.com"
+  avatarurl = "images/headshot.jpg"
 
-  faviconSVG = "/img/favicon.svg"
+  faviconSVG = "/images/ij-circle.svg"
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
@@ -21,17 +20,34 @@ defaultcontentlanguage = "en"
   enableTwemoji = true
 
   colorScheme = "dark"
-  hidecolorschemetoggle = true
+  hidecolorschemetoggle = false
 
-
-# Menu links
+# menu links
 [[menu.main]]
-  name = "blog"
+  name = "now"
   weight = 1
-  url  = "posts/"
+  url  = "now/"
 
 [[menu.main]]
   name = "about"
   weight = 2
   url  = "about/"
+
+[[menu.main]]
+  name = "blog"
+  weight = 3
+  url  = "posts/"
+
+# socials
+[[params.social]]
+name = "GitHub"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/mbclawson"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 2
+url = "https://www.linkedin.com/in/matthew-clawson-1b8b6b30/"
 
