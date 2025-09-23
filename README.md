@@ -1,4 +1,4 @@
-# some name here
+# mattclawson.dev
 A personal website and blog for Matt Clawson, Data Engineer, built with Hugo and hosted on GitHub Pages.
 
 ## What is Hugo?
@@ -15,11 +15,11 @@ A static site consists of pre-generated HTML, CSS, and JavaScript files that are
 
 ## Project Structure
 ```
-redpoint-site/
+personal-site/
 archetypes/          # Content templates for new posts
 assets/              # Asset processing (SCSS, JS, images)
 content/             # Your content (Markdown files)
-posts/           # Blog posts go here
+   posts/            # Blog posts go here
 data/                # Data files (YAML, JSON, TOML)
 i18n/                # Translation files
 layouts/             # Custom HTML templates (if needed)
@@ -27,7 +27,6 @@ public/              # Generated static site (git ignored)
 resources/           # Hugo's cache and processed assets
 static/              # Static files (copied as-is to public/)
 hugo.toml            # Site configuration
-README.md            # This file
 ```
 
 ## Quick Start
