@@ -24,7 +24,7 @@ No way to fake it if I'm writing about it.
 - Build a better online presence
 - Work on the house
 - Work on my running/lifting
-- Minimize time crying in the shower while learning about data structures and algorithims
+- Minimize time crying in the shower while learning about data structures and algorithms
 - Take the next step in understanding database internals and optimization
 - Increase the number of questions I am away from being completely out of my depth about AI
 

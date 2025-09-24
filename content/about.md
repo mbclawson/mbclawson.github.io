@@ -8,18 +8,18 @@ I'm Matt Clawson.  I have a _very_ strong aversion to job titles, but you can th
 
 Currently, I focus on designing and implementing robust data pipelines, optimizing database performance, and creating analytics solutions that create **_real_** value.
 
-## Experience
+## experience
 2016 → 2025 **data**
 WIP
 
-## Technical Focus
+## technical focus
 - Data pipeline architecture and optimization
 - Database design and performance tuning
 - Database administration
 - Cloud platforms and distributed systems
 - Open source data tools and frameworks
 
-## Beyond Work
+## beyond work
 WIP
 
 ---
