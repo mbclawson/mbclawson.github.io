@@ -16,7 +16,7 @@ This is less of a real first post and more like a 'let's get a meta post out the
 
 ## the meta
 This website was bourne out of (finally) having some time between contracts and clients to wander, meander, traipse, stray, roam.  Finding a rhythm here has been challenging, however
-I'm grateful for the breathing room.  Like a lot of personal/professional blogs, writing will be my way to solidify understanding and work on communication skills.
+I'm grateful for the breathing room.  Like a lot of personal/professional blogs, writing will be my way to solidify understanding, work on communication skills, and make sense of what I'm working on.
 No way to fake it if I'm writing about it.
 
 ## the hope(s)
@@ -24,8 +24,8 @@ No way to fake it if I'm writing about it.
 - Build a better online presence
 - Work on the house
 - Work on my running/lifting
-- Minimize time crying in the shower while learning Data Structures and Algorithims
+- Minimize time crying in the shower while learning about data structures and algorithims
 - Take the next step in understanding database internals and optimization
-- Maximize the number of questions I am away from being completely out of my depth about AI
+- Increase the number of questions I am away from being completely out of my depth about AI
 
 Hope y'all enjoy!
