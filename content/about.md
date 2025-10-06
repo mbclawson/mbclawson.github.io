@@ -1,6 +1,6 @@
 +++
 title = "about"
-description = "About"
+description = "About page"
 date = 2025-09-21
 +++
 
