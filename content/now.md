@@ -4,10 +4,7 @@ description = "What I'm doing now"
 date = 2025-09-23
 +++
 
-Exploring new opportunities in data engineering while sharpening my python, cloud, and database skills.
-
-### Career Focus
-Looking for full-time or contracting/consulting opportunities in the data engineering space. Particularly any role that aligns well with my Snowflake, dbt, and DataOps experience.
+I'm exploring full-time and contract data engineering opportunities, particularly roles that leverage my Snowflake, dbt, and DataOps expertise. In the meantime, I'm sharpening my Python, cloud, and database skills.
 
 ### Learning & Building
 - **Python Skills**: Deepening my Python expertise
