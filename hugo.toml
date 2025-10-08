@@ -11,9 +11,9 @@ defaultcontentlanguage = "en"
   keywords = "blog,developer,personal"
   avatarurl = "images/headshot.jpg"
 
-  faviconSVG = "/images/ij-circle-white.svg"
-  favicon_32 = "/images/ij-circle-white.png"
-  favicon_16 = "/images/ij-circle-white.png"
+  faviconSVG = "images/ij-circle-white.svg"
+  favicon_32 = "images/ij-circle-white.png"
+  favicon_16 = "images/ij-circle-white.png"
 
   since = 2025
 
