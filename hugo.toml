@@ -22,6 +22,8 @@ defaultcontentlanguage = "en"
   colorScheme = "dark"
   hidecolorschemetoggle = false
 
+  customSCSS = ["scss/custom.scss"]
+
 # menu links
 [[menu.main]]
   name = "now"

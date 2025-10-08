@@ -1,0 +1,20 @@
+/* Override theme's hyphenation settings */
+* {
+  hyphens: none !important;
+  -webkit-hyphens: none !important;
+  -moz-hyphens: none !important;
+  -ms-hyphens: none !important;
+}
+
+body,
+p,
+li,
+div,
+span,
+.content {
+  hyphens: none !important;
+  -webkit-hyphens: none !important;
+  -moz-hyphens: none !important;
+  -ms-hyphens: none !important;
+  overflow-wrap: break-word;
+}
