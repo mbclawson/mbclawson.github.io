@@ -1,7 +1,6 @@
 +++
 title = "About"
-description = "About page"
-date = 2025-09-21
+description = "About page that lists a little about me to include my technical focus areas, experience, and personal interests."
 +++
 
 Hey. I'm Matt. I'm an engineer who likes to plumb data[^1].
@@ -10,11 +9,12 @@ I have over 9 years of experience working in data.  My career path has been one 
 
 One thing has remained constant during this time → I have a _real_ passion for doing work that indexes on **impact** and **simplicity**.  Implementing data pipelines, optimizing query performance, and setting up greenfield data infrastructure are some of my favorite things to do.
 
-## Technical Focus and Tooling
+## Technical Focus Areas
+
 - Data pipelines
 - Data warehouse design, administration, and performance tuning
-- Cloud platforms and distributed systems
-- Open source data tools and frameworks
+- Cloud infrastructure
+- Open source data tooling
 
 ## Experience
 
@@ -28,9 +28,9 @@ _Highlight:_ Rolled out a complete dbt Cloud project including multi-project arc
 
 2024 → 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Senior Analytics Engineer (Consultant)** @ Brooklyn Data Co. (a Velir company)
 
-Created scalable data pipelines and dimensional models for various clients.
+Created scalable data pipelines and dimensional models for clients of various industries and company sizes.
 
-_Highlight:_ Optimized a client's dbt queries in BigQuery through partitioning, clustering, and advanced incremental configurations which netted annualized savings of $91,250.
+_Highlight:_ Saved a client $91,250 annually by optimizing their BigQuery dbt queries with partitioning, clustering, and advanced incremental strategies.
 
 ---
 
@@ -52,7 +52,7 @@ _Highlight:_ Led our team during a 2 day hackathon where we increased dbt test c
 You can most often find me running trails in the front range, contemplating if I want to come out of retirement for rock climbing, or working on the house[^3].
 
 ### Want to Connect?
-Feel free to reach out on my [LinkedIn](https://www.linkedin.com/in/matthew-clawson-1b8b6b30/)!
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/matthew-clawson-1b8b6b30/)!
 
 [^1]: I have a _very_ strong aversion to job titles found in the data industry. Just think Data Engineer despite all the Analytics Engineering titles you see.
 [^2]: You can read that as frantic Excel work
