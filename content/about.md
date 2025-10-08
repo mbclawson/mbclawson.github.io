@@ -1,26 +1,59 @@
 +++
-title = "about"
+title = "About"
 description = "About page"
 date = 2025-09-21
 +++
 
-Hey. I'm Matt Clawson.  I have a _very_ strong aversion to job titles found in the data industry, so just think of me as an engineer who likes to plumb data.
+Hey. I'm Matt. I'm an engineer who likes to plumb data[^1].
 
-I have a _real_ passion in designing workflows that index on impact and simplicity.  Implementing robust data pipelines,
-optimizing query performance, and setting up greenfield data infrastructure are some of my favorite things to do.
+I have over 9 years of experience working in data.  My career path has been one of continually shifting left: from reporting roles in finance[^2] to analytics and data engineering using dbt in various cloud data warehouses to getting more involved with cloud infrastructure.
 
-## experience
-2016 → 2025 **data**
-WIP
+One thing has remained constant during this time → I have a _real_ passion for doing work that indexes on **impact** and **simplicity**.  Implementing data pipelines, optimizing query performance, and setting up greenfield data infrastructure are some of my favorite things to do.
 
-## technical focus
+## Technical Focus and Tooling
 - Data pipelines
-- Data warehouse design administration, and performance tuning
+- Data warehouse design, administration, and performance tuning
 - Cloud platforms and distributed systems
 - Open source data tools and frameworks
 
-## beyond work
-WIP
+## Experience
+
+2024 → 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Staff Analytics Engineer (Consultant)** @ Optomi LLC
+
+Served as primary Snowflake administrator and dbt subject matter expert for an e-commerce client. I created and implemented Snowflake's data governance strategy, monitored alert channels to troubleshoot errors and keep our pipelines running, optimized dbt models, and refined CICD processes.
+
+_Highlight:_ Rolled out a complete dbt Cloud project including multi-project architecture, repository configuration, and Snowflake administration setup to enable the Data Science & Analytics team's self-service analytics capabilities.
 
 ---
-*Want to connect? Feel free to reach out via my [LinkedIn](https://www.linkedin.com/in/matthew-clawson-1b8b6b30/)!*
+
+2024 → 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Senior Analytics Engineer (Consultant)** @ Brooklyn Data Co. (a Velir company)
+
+Created scalable data pipelines and dimensional models for various clients.
+
+_Highlight:_ Optimized a client's dbt queries in BigQuery through partitioning, clustering, and advanced incremental configurations which netted annualized savings of $91,250.
+
+---
+
+2022 → 2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Senior Analytics Engineer** @ Drata
+
+Primarily supported Drata's Product team by modeling complex backend application data in Snowflake with dbt.  Additionally, I was heavily involved in refactoring legacy dbt DAGs to increase modularity and improve performance.  Also did various project work for all business units: GTM, Customer Success, Sales, and Executive Leadership.
+
+_Highlight:_ Built an end-to-end data pipeline using Terraform, AWS Lambda, an API, Fivetran, Snowflake, dbt, and Census to surface website activity via Slack for Customer Success team outreach efforts.
+
+---
+
+2021 → 2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Data Analyst → Analytics Engineer** @ TechnologyAdvice
+
+Translated stakeholder requirements into dbt models and Tableau dashboards for self-service analytics.
+
+_Highlight:_ Led our team during a 2 day hackathon where we increased dbt test coverage by 10x and reduced job runtimes by 50%.
+
+## Beyond Work
+You can most often find me running trails in the front range, contemplating if I want to come out of retirement for rock climbing, or working on the house[^3].
+
+### Want to Connect?
+Feel free to reach out on my [LinkedIn](https://www.linkedin.com/in/matthew-clawson-1b8b6b30/)!
+
+[^1]: I have a _very_ strong aversion to job titles found in the data industry. Just think Data Engineer despite all the Analytics Engineering titles you see.
+[^2]: You can read that as frantic Excel work
+[^3]: You can read that as rearranging tools on the pegboard
