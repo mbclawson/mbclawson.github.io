@@ -1,4 +1,4 @@
-# mattclawson
+# mbclawson.github.io
 My personal website and blog built with Hugo and hosted on GitHub Pages.
 
 ## What is Hugo?
