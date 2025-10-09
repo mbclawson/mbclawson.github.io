@@ -7,7 +7,7 @@ Hey. I'm Matt. I'm an engineer who likes to plumb data and I've spent over 9 yea
 
 My career path has been one of continually shifting left: from reporting roles in finance[^2] to analytics engineering using dbt in various cloud data warehouses to getting more involved with cloud infrastructure.
 
-A constant during this time? I have a _real_ passion for doing work that indexes on **impact** and **simplicity**. Implementing data pipelines, optimizing query performance, and setting up greenfield data infrastructure are some of my favorite things to do.
+A constant during this time? _Real_ passion for doing work that indexes on **impact** and **simplicity**. Implementing data pipelines, optimizing query performance, and setting up greenfield data infrastructure are some of my favorite things to do.
 
 ## Experience
 
@@ -42,7 +42,7 @@ Supported various business groups by translating stakeholder requirements into d
 _Highlight:_ Led our team during a 2-day hackathon where we increased dbt test coverage by 10x and reduced job runtimes by 50%.
 
 ## Beyond Work
-You can most often find me running trails in the front range, contemplating a rock climbing comeback, or working on the house[^3].
+You can most often find me running trails in Denver's front range, contemplating a rock climbing comeback, or working on the house[^3].
 
 ### Want to Connect?
 My full resume is available on request - feel free to reach out on [LinkedIn](https://www.linkedin.com/in/matthew-clawson-1b8b6b30/)!
