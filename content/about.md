@@ -15,7 +15,7 @@ A constant during this time? _Real_ passion for doing work that indexes on **imp
 
 Served as primary Snowflake administrator and dbt subject matter expert for an e-commerce client. I created and implemented Snowflake's data governance strategy, monitored alert channels to troubleshoot errors and keep pipelines running, optimized dbt models, and refined CICD processes.
 
-_Highlight:_ Rolled out a complete dbt Cloud project including multi-project architecture, repository configuration, and Snowflake administration setup to enable the Data Science & Analytics team's self-service analytics capabilities.
+_Highlight:_ Rolled out a complete dbt Cloud project including multi-project considerations, GitLab repository configuration, and Snowflake administration setup to enable the Data Science & Analytics team to expand on their reporting DAG.
 
 ---
 
@@ -47,6 +47,6 @@ You can most often find me running trails in Denver's front range, contemplating
 ### Want to Connect?
 My full resume is available on request - feel free to reach out on [LinkedIn](https://www.linkedin.com/in/matthew-clawson-1b8b6b30/)!
 
-[^1]: I have a _very_ strong aversion to job titles found in the data industry. Just think 'data engineer' despite all the 'analytics engineer' titles you see.
+[^1]: Data titles are weird.  You'll see 'analytics engineer' a lot but my work has typically mapped closer to 'data engineer'
 [^2]: You can read that as frantic Excel work.
 [^3]: You can read that as rearranging tools on a pegboard.
