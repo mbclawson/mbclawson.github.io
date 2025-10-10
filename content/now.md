@@ -8,7 +8,7 @@ I'm exploring full-time, consulting, and contract data engineering opportunities
 
 ### Learning & Building
 - **Python**: Deepening my command of python in the context of data engineering
-- **Cloud**: Getting more comfortable operating within AWS and managing infrastructure with Terraform
+- **Cloud**: Getting more comfortable operating within AWS and managing infrastructure via Terraform
 - **AI**: Getting some reps in with modern AI tooling → namely Claude Code and MCPs
 - **Database Internals**: Solidifying what it _actually_ means to optimize queries and what's happening under the hood
 - **This Site**: Building out this personal site to showcase my work and thoughts
