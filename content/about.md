@@ -47,6 +47,6 @@ You can most often find me running trails in Denver's front range, contemplating
 ### Want to Connect?
 My full resume is available on request - feel free to reach out on [LinkedIn](https://www.linkedin.com/in/matthew-clawson-1b8b6b30/)!
 
-[^1]: Data titles are weird.  My title has been 'analytics engineer' but my work has typically mapped closer to data engineering.
+[^1]: Data titles are weird.  My title has always been 'analytics engineer' but my work has almost always mapped closer to data engineering.
 [^2]: You can read that as frantic Excel work.
 [^3]: You can read that as rearranging tools on a pegboard.
