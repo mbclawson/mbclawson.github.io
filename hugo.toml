@@ -35,9 +35,14 @@ defaultcontentlanguage = "en"
   weight = 2
   url  = "about/"
 
+# [[menu.main]]
+#   name = "portfolio"
+#   weight = 3
+#   url  = "portfolio/"
+
 [[menu.main]]
   name = "blog"
-  weight = 3
+  weight = 4
   url  = "posts/"
 
 # socials
@@ -52,4 +57,3 @@ name = "LinkedIn"
 icon = "fa-brands fa-linkedin fa-2x"
 weight = 2
 url = "https://www.linkedin.com/in/matthew-clawson-1b8b6b30/"
-
