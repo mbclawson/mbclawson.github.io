@@ -5,7 +5,11 @@ description = "About page that lists a little about me to include my technical f
 
 Hey. I'm Matt. I'm an engineer who likes to plumb data and I've spent over 9 years doing it professionally[^1].
 
-My career path has been one of continually shifting left: from reporting roles in finance[^2] to analytics engineering using dbt in various cloud data warehouses to getting more involved with cloud infrastructure.
+My career path has been one of continually shifting left:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ From reporting roles in finance[^2]\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ to analytics engineering using dbt in various cloud data warehouses\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ to platform work and getting more involved with cloud infrastructure.
 
 A constant during this time? _Real_ passion for doing work that indexes on **impact** and **simplicity**. Implementing data pipelines, optimizing query performance, and setting up greenfield data infrastructure are some of my favorite things to do.
 
@@ -41,11 +45,11 @@ Supported various business groups by translating stakeholder requirements into d
 
 _Highlight:_ Led our team during a 2-day hackathon where we increased dbt test coverage by 10x and reduced job runtimes by 50%.
 
+## Want to Connect?
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/matthew-clawson-1b8b6b30/) if you'd like to connect or get a copy of the full resume!
+
 ## Beyond Work
 You can most often find me running trails in Denver's front range, contemplating a rock climbing comeback, or working on the house[^3].
-
-### Want to Connect?
-My full resume is available on request - feel free to reach out on [LinkedIn](https://www.linkedin.com/in/matthew-clawson-1b8b6b30/)!
 
 [^1]: Data titles are weird.  My title has always been 'analytics engineer' but my work has almost always mapped closer to data engineering.
 [^2]: You can read that as frantic Excel work.
