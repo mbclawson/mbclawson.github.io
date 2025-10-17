@@ -35,10 +35,10 @@ defaultcontentlanguage = "en"
   weight = 2
   url  = "about/"
 
-# [[menu.main]]
-#   name = "portfolio"
-#   weight = 3
-#   url  = "portfolio/"
+[[menu.main]]
+  name = "portfolio"
+  weight = 3
+  url  = "portfolio/"
 
 [[menu.main]]
   name = "blog"
