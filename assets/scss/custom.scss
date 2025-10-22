@@ -17,4 +17,29 @@ span,
   -moz-hyphens: none !important;
   -ms-hyphens: none !important;
   overflow-wrap: break-word;
+  text-align: left !important;
+}
+
+/* Gruvbox colors for headings and bold in dark mode - Option 2 */
+body.colorscheme-dark {
+  strong, b {
+    color: #ec8d7c !important; /* muted orange */
+  }
+
+  a:not(.navigation a):not(.content .post .tags .tag a):not(.centered .about ul li a):not(h1 a):not(h2 a):not(h3 a):not(h4 a):not(h5 a):not(h6 a) {
+    color: #a6c8ff !important;
+  }
+}
+
+/* Also apply to auto color scheme when in dark mode */
+@media (prefers-color-scheme: dark) {
+  body.colorscheme-auto {
+    strong, b {
+      color: #ec8d7c !important; /* muted orange */
+    }
+
+    a:not(.navigation a):not(.content .post .tags .tag a):not(.centered .about ul li a):not(h1 a):not(h2 a):not(h3 a):not(h4 a):not(h5 a):not(h6 a) {
+      color: #a6c8ff !important;
+    }
+  }
 }
