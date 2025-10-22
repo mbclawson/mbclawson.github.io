@@ -1,23 +1,29 @@
-/* Override theme's hyphenation settings */
+/* Override theme's hyphenation and text justification settings */
 * {
   hyphens: none !important;
   -webkit-hyphens: none !important;
   -moz-hyphens: none !important;
   -ms-hyphens: none !important;
+  text-align: start !important;
+  text-justify: none !important;
 }
 
 body,
 p,
 li,
 div,
-span,
-.content {
+span {
   hyphens: none !important;
   -webkit-hyphens: none !important;
   -moz-hyphens: none !important;
   -ms-hyphens: none !important;
   overflow-wrap: break-word;
-  text-align: left !important;
+}
+
+/* Restore centering for homepage elements */
+.centered,
+.centered * {
+  text-align: center !important;
 }
 
 /* Gruvbox colors for headings and bold in dark mode - Option 2 */
