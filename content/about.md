@@ -15,7 +15,7 @@ A constant during this time? _Real_ passion for doing work that indexes on **imp
 
 ## Experience
 
-2024 → 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Staff Analytics Engineer (Contractor)** @ Optomi LLC
+2024 → 2025 &nbsp;&nbsp;|&nbsp;&nbsp; **Staff Analytics Engineer (Contractor)** @ Optomi LLC
 
 Served as primary Snowflake administrator and dbt subject matter expert for an e-commerce client. I created and implemented Snowflake's data governance strategy, monitored alert channels to troubleshoot errors and keep pipelines running, optimized dbt models, and refined CICD processes.
 
@@ -23,7 +23,7 @@ _Highlight:_ Rolled out a complete dbt Cloud project including multi-project con
 
 ---
 
-2024 → 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Senior Analytics Engineer (Consultant)** @ Brooklyn Data Co. (a Velir company)
+2024 → 2024 &nbsp;&nbsp;|&nbsp;&nbsp; **Senior Analytics Engineer (Consultant)** @ Brooklyn Data Co. (a Velir company)
 
 Designed and deployed end-to-end data pipelines and dimensional models for clients across various industries and company sizes.
 
@@ -31,7 +31,7 @@ _Highlight:_ Saved a client $91,250 annually by optimizing their BigQuery dbt qu
 
 ---
 
-2022 → 2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Senior Analytics Engineer** @ Drata
+2022 → 2023 &nbsp;&nbsp;|&nbsp;&nbsp; **Senior Analytics Engineer** @ Drata
 
 Provided analytics support for Product by modeling complex backend application data in Snowflake with dbt.  I was also heavily involved in refactoring legacy dbt DAGs to increase modularity and improve performance.  Completed various project work for all business units: GTM, Customer Success, Sales, and Executive Leadership.
 
@@ -39,7 +39,7 @@ _Highlight:_ Built an end-to-end data pipeline using Terraform, AWS Lambda, an A
 
 ---
 
-2021 → 2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Data Analyst → Analytics Engineer** @ TechnologyAdvice
+2021 → 2022 &nbsp;&nbsp;|&nbsp;&nbsp; **Data Analyst → Analytics Engineer** @ TechnologyAdvice
 
 Supported various business groups by translating stakeholder requirements into dbt models and Tableau dashboards for self-serve analytics.
 
