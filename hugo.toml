@@ -4,6 +4,11 @@ title = 'matt clawson'
 theme = 'hugo-coder'
 defaultcontentlanguage = "en"
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
+
 [params]
   author = "Matt Clawson"
   info = "Data Engineer"
