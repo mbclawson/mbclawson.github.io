@@ -1,6 +1,5 @@
 +++
-draft = true
-date = 2025-11-19
+date = 2025-12-2
 title = "terraforming snowflake: module exploration"
 description = "An investigation into how to best use modules to provision Snowflake objects."
 tags = ["terraform", "snowflake"]
