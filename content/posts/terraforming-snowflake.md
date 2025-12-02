@@ -3,7 +3,6 @@ date = 2025-12-2
 title = "terraforming snowflake: module exploration"
 description = "An investigation into how to best use modules to provision Snowflake objects."
 tags = ["terraform", "snowflake"]
-series = ["homelab"]
 +++
 
 I had the privilege of working with a terraformed Snowflake instance at a prior role.  It's been a few years since that job, however that Snowflake instance has always stuck with me.
